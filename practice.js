@@ -6,7 +6,7 @@ const firebaseConfig = {
   projectId: "tictactoe-47fed",
   storageBucket: "tictactoe-47fed.appspot.com",
   messagingSenderId: "974672026225",
-  appId: "1:974672026225:web:c731c75814a77c5ab419d0"
+  appId: "1:974672026225:web:6302462fac838979b419d0"
 };
 function addUser()
 {
