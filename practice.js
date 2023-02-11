@@ -1,12 +1,12 @@
 // ADD YOUR FIREBASE LINKS
 const firebaseConfig = {
-  apiKey: "AIzaSyDWh7zfRBbE4Z_jtU7InnxYQJX-0SEoVgg",
-  authDomain: "tictactoe-47fed.firebaseapp.com",
-  databaseURL: "https://tictactoe-47fed-default-rtdb.firebaseio.com",
-  projectId: "tictactoe-47fed",
-  storageBucket: "tictactoe-47fed.appspot.com",
-  messagingSenderId: "974672026225",
-  appId: "1:974672026225:web:6302462fac838979b419d0"
+  apiKey: "AIzaSyD6hAxWiv8WCsL8S9HR9HCM7sjsSdXcs-I",
+  authDomain: "test2-3e043.firebaseapp.com",
+  databaseURL: "https://test2-3e043-default-rtdb.firebaseio.com",
+  projectId: "test2-3e043",
+  storageBucket: "test2-3e043.appspot.com",
+  messagingSenderId: "634878779297",
+  appId: "1:634878779297:web:8c54617cfd5e3103ee75e0"
 };
 function addUser()
 {
